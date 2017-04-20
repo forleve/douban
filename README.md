@@ -1,4 +1,4 @@
-# Douban
+# Douban by shawnye
 
 > Awesome douban DEMO created with Vue2.x + Vuex + Vue-router + vue-resource
 
